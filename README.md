@@ -73,14 +73,17 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Javier Ortiz
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R: R corresponde a un software de procesamiento de datos. Especificamente corresponde a una plataforma 
+   para el procesamiento de datos, el cual posee su lenguaje especifico de programacion. En cambio, Rstudio    corresponde a una interfaz que logra hacer mas "amigable" el uso de R, a travez de un entrono de           trabajo, un directorio de trabajo, un script de codigo y la consola mediante la cual se ejecuta en         procesamiento de datos.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+R: Desde GitHub Desktop podemos utilizar el comando Push para poder subir los cambios desde el repositorio    local de mi PC, hacia la nube o plataforma colaborativa de GitHub.
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
